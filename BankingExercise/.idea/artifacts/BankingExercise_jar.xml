@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BankingExercise:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BankingExercise_jar</output-path>
+    <root id="archive" name="BankingExercise.jar">
+      <element id="module-output" name="BankingExercise" />
+    </root>
+  </artifact>
+</component>
